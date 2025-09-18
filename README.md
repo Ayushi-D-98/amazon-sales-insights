@@ -24,7 +24,7 @@ It demonstrates end-to-end **data cleaning, exploratory data analysis (EDA), and
 - **Python** → Data cleaning, analysis (Pandas, NumPy)  
 - **Matplotlib & Seaborn** → Data visualization  
 - **SQL (optional)** → Querying cleaned dataset  
-- **Power BI / Excel** → Dashboard building (optional extension)
+- **Streamlit** → Dashboard building (optional extension)
 
 ---
 
